@@ -52,7 +52,7 @@ This project focuses on:
 
 ---
 
-## 🔐 Authentication Flow (Plain English)
+## 🔐 Authentication Flow
 
 **Login**
 - Client sends credentials  
