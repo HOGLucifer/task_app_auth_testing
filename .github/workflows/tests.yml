@@ -1,4 +1,4 @@
-name: Make tests script executable
+name: Make test scripts executable
 run: chmod +x run_tests.sh
 
 name: Run Tests
