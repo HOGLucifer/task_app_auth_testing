@@ -5,7 +5,8 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  tests:
+    name: Run Tests Check
     runs-on: ubuntu-latest
 
     steps:
